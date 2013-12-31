@@ -9,6 +9,8 @@ This Crypto Currency includes the following foundation and respect is due.
 
 Copyright Digital Note 2014
 
+http://www.DigitalNote.co
+
 ==============================================================================
 
 digitalcoin V1 BETA
